@@ -6,7 +6,7 @@ require_once "RestClient.php";
     $api = new RestClient([
              'base_url' => $SERVER_URL,
              'headers' => array(
-             'Authorization' => 'Basic' . base64_encode('8765b8b2696f325fde67aeaa049ac7a5')
+             'Authorization' => 'Basic' . base64_encode('YOUR LICENCE KEY')
         )
 
 
