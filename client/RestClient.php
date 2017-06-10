@@ -9,7 +9,7 @@
  */
 
 if(!isset($SERVER_URL))
-    $SERVER_URL = "http://localhost/rest/server/classes/Server.php";
+    $SERVER_URL = "YOUR SERVER URL";
 
 class RestClientException extends Exception {}
 
